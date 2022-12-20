@@ -1,0 +1,16 @@
+.wrapper {
+	max-width: 90vw;
+	margin: 0 auto;
+}
+
+
+.title {
+	text-align: center;
+	color: rgb(61, 165, 42);
+	font-size: 5vh;
+}
+
+.page1__image {
+	width: 100%;
+	height: auto;
+}
